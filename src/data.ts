@@ -12,4 +12,8 @@ export const allLinks: NavLink[] = [
     name: "Inventory",
     link: "/inventory",
   },
+  {
+    name: "Chess Board",
+    link: "/chess-board",
+  },
 ];
